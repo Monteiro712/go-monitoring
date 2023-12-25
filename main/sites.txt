@@ -1,0 +1,3 @@
+https://ead2.iff.edu.br/login/index.php
+https://academico.iff.edu.br/qacademico/index.asp?t=1001
+https://suap.iff.edu.br/accounts/login/?next=/
